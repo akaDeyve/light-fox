@@ -1,0 +1,8 @@
+{
+  "extDescription": {
+    "message": "Lighthouse-style audit of the active page: performance, accessibility (axe-core) and best practices."
+  },
+  "actionTitle": {
+    "message": "Lightfox – analyze page"
+  }
+}
